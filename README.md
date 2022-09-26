@@ -4,9 +4,7 @@
 
 <hr width="4em">
 <p align="center">Atualmente estou aprendendo:</p>
-<span style="display: block;
-text-align: -webkit-center;
-">
+<p align="center">
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,7 +13,7 @@ text-align: -webkit-center;
 
 
 
-</span>
+</p>
 
 
 
