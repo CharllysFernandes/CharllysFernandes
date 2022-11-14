@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-7c6cf9?style=for-the-badge&logo=bootstrap&logoColor=f6f1fd" />
+
 </p>
 
 <h3>Alguns trabalhos para testar meu html e css</h3>
@@ -18,6 +21,8 @@ https://daianyfernandes.com/contato
 https://charllysfernandes.github.io/
 
 https://charllysfernandes.github.io/noop/
+
+https://charllysfernandes.github.io/Website_for_portfolio_1/
 
 
 
