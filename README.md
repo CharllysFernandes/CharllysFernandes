@@ -14,13 +14,13 @@
 
 <h3>Alguns trabalhos para testar meu html e css</h3>
 
-https://daianyfernandes.com/
+https://charllysfernandes.github.io/kanban-board/
 
-https://daianyfernandes.com/contato
+https://charllysfernandes.github.io/PasswordGenerator/
 
-https://charllysfernandes.github.io/
+https://charllysfernandes.github.io/To-do/
 
-https://charllysfernandes.github.io/noop/
+https://charllysfernandes.github.io/CRUD/
 
 https://charllysfernandes.github.io/Website_for_portfolio_1/
 
