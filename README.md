@@ -16,7 +16,7 @@
 
 https://charllysfernandes.github.io/kanban-board/
 
-https://charllysfernandes.github.io/PasswordGenerator/
+https://charllysfernandes.github.io/SenhaAleatoria/
 
 https://charllysfernandes.github.io/To-do/
 
